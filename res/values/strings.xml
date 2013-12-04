@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">正在上传，请稍候！</string>
+    <string name="app_name">upyun-sdk</string>
+
+</resources>
